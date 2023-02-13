@@ -6,7 +6,7 @@
   "author": "mrsaifullah52 <mrsaifullah52@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev-watch":"npx tailwindcss -i ./input.css -o ./assets/style/style.css --watch --compressed"
+    "dev-watch":"npx tailwindcss -i ./input.css -o ./assets/style/style.css --watch compressed"
   },
   "dependencies": {
     "init": "^0.1.2"
